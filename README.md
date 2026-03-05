@@ -2,6 +2,8 @@
 
 An autonomous AI-powered trading intelligence system that collects live market data, calculates technical indicators, and visualizes insights in real time.
 
+---
+
 ## Features
 
 - Real-time market monitoring for:
@@ -10,17 +12,16 @@ An autonomous AI-powered trading intelligence system that collects live market d
   - Crude Oil
   - S&P 500
 
-- Automated data collection using **Playwright**
+- Automated market data collection using **Playwright**
 - Backend API built with **FastAPI**
-- Market data stored in **PostgreSQL (TimescaleDB)**
-- Parallel browser automation
+- High-frequency time-series data stored in **PostgreSQL (TimescaleDB)**
+- Parallel browser automation using **multiprocessing**
 - Technical indicators:
   - MA20
   - MA50
   - MA100
   - MA200
-
-- Live dashboard built with **React**
+- Interactive live dashboard built with **React**
 
 ---
 
@@ -42,46 +43,55 @@ An autonomous AI-powered trading intelligence system that collects live market d
 ---
 
 ## System Architecture
+
+
 Playwright Scrapers
 │
 ▼
 Market Data Collection
 │
 ▼
-PostgreSQL Database
+PostgreSQL (TimescaleDB)
 │
 ▼
-FastAPI Backend
+FastAPI Backend API
 │
 ▼
 React Dashboard
+
 
 ---
 
 ## Installation
 
-### 1 Clone Repository
-git clone https://github.com/YOUR_USERNAME/autonomous-ai-trading-agent.git
+### 1. Clone the Repository
+
+
+git clone https://github.com/HenilShah34/autonomous-ai-trading-agent.git
+
+cd autonomous-ai-trading-agent
 
 
 ---
 
-### 2 Backend Setup
+### 2. Backend Setup
 
 
 cd backend
+
 python -m venv venv
 venv\Scripts\activate
+
 pip install -r requirements.txt
 
 
-Run scrapers
+Run the market scrapers:
 
 
 python run_all_markets.py
 
 
-Start API
+Start the backend API:
 
 
 uvicorn api:app --reload
@@ -89,12 +99,19 @@ uvicorn api:app --reload
 
 ---
 
-### 3 Frontend Setup
+### 3. Frontend Setup
 
 
 cd frontend
+
 npm install
 npm run dev
+
+
+The dashboard will run at:
+
+
+http://localhost:5173
 
 
 ---
@@ -103,16 +120,18 @@ npm run dev
 
 The dashboard displays:
 
-- Live market price
+- Live market prices
 - Moving averages
 - Technical indicators
-- Market trends
+- Market trend visualization
+
+*(You can add a screenshot here later)*
 
 ---
 
 ## Author
 
-Henil Shah
+**Henil Shah**
 
 GitHub  
 https://github.com/HenilShah34
