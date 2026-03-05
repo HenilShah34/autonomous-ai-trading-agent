@@ -1,0 +1,72 @@
+[
+  {
+    "name": "__eventn_id_usr",
+    "value": "%7B%22adFreeUser%22%3A0%2C%22investingProUser%22%3A0%2C%22investingProPremiumUser%22%3A0%7D",
+    "domain": ".investing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__eventn_id",
+    "value": "b9621838-2853-412a-aa1e-4a3b6305cf8b",
+    "domain": ".investing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__eventn_uid",
+    "value": "275709039",
+    "domain": ".investing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "FftO4iPX19ODnkaZQuplaLrxkJkMOpvk9FqFvPQ_bcc-1769064365-1.0.1.1-UA1PFBbKn3l2ZljvKh9eBE8o8q2e6Ajdo2Hqlap4wY1XgnJVfKZ2YnJBBJPTT9NCydVjh4GZNqvotCehGtvU7bDTDM_oNwn3phAlfwOCAX20YLSvaMYGWFpvEnzLH6jS",
+    "domain": ".investing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cflb",
+    "value": "02DiuGRugds2TUWHMkimYPAcC3JQrXKkAwPnhJ8YbW6EQ",
+    "domain": "www.investing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "PHPSESSID",
+    "value": "2p49irs3sqv6gtppg4mngafalf",
+    "domain": "www.investing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ses_id",
+    "value": "M30wcTI9PjYxdW5oZzZlYDZiNGg0M2JpMzJlZWNtYHZgdGNtbzhkImJtPnA1NmR4Y2U%2BPDFvNjVnMGNnNjQyMjNlMDEyMD5nMTNuYGc3ZWM2YzRuNDZiNTNhZWBjN2A%2BYGdjY284ZGhiNj42NTRkOWNxPiIxdTYnZzVjMzZ3MnUzPDBxMmI%2BazFgbmNnZ2VgNjM0ajQ0YjYzMmVkYzJgeGAr",
+    "domain": ".investing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

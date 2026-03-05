@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Scraper profile
+chrome_profile/
+
+# Data folders
+user_data/
+user_data_crude/
+user_data_gold/
+user_data_silver/
+user_data_sp500/
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Logs
+*.log
