@@ -83,9 +83,9 @@ The dashboard displays:
 - Technical indicator overlays
 - Market trend visualization
 
-```
-[ DRAG YOUR SCREENSHOT OR SCREEN-RECORDING GIF INTO THIS SPOT ]
-```
+| Terminal | Dashboard | 
+|:---:|:---:|:---:|
+| ![Terminal Screen](Downloads/terminal_screenshot.jpeg) | ![Dashboard](Downloads/dashboard_screenshot.jpeg) |
 
 ---
 
