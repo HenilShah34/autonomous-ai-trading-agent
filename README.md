@@ -84,9 +84,9 @@ The dashboard displays:
 - Market trend visualization
 
 <p align="center">
-  <img src="Images/terminal_screenshot.jpeg" alt="Terminal Output" width="450"/>
+  <img src="Images/terminal_screenshot.jpeg"  width="450"/>
   &nbsp;&nbsp;
-  <img src="Images/dashboard_screenshot.jpeg" alt="Dashboard" width="450"/>
+  <img src="Images/dashboard_screenshot.jpeg"  width="450"/>
 </p>
 
 <p align="center">
