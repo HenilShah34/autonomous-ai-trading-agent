@@ -83,12 +83,29 @@ The dashboard displays:
 - Technical indicator overlays
 - Market trend visualization
 
-| Terminal | Dashboard | 
-|:---:|:---:|:---:|
-| ![Terminal Screen](Downloads/terminal_screenshot.jpeg) | ![Dashboard](Downloads/dashboard_screenshot.jpeg) |
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
----
+### Terminal Output
 
+<img src="Images/terminal_screenshot.jpeg" alt="Terminal Output" width="100%"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Dashboard
+
+<img src="Images/dashboard_screenshot.jpeg" alt="Dashboard" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<i>Left: Live AI trading agent execution in the terminal. Right: Interactive dashboard displaying market data, trading signals, and real-time analytics.</i>
+</p>
 ## 🚀 Installation
 
 ### 1. Clone the Repository
