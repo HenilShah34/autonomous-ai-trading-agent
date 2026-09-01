@@ -74,26 +74,41 @@ flowchart TD
 
 ## 📸 Dashboard Preview
 
-> ### ⚠️ SCREENSHOT NEEDED HERE
-> **Drag and drop your dashboard screenshot/GIF directly into this section on GitHub** — this is the single highest-impact addition to this README. A live-looking dashboard image does more to prove this project is real and working than any amount of text.
-
 The dashboard displays:
 - Live market prices across all 4 tracked assets
 - Real-time moving averages (MA20/50/100/200)
 - Technical indicator overlays
 - Market trend visualization
 
+### Static Previews
 <p align="center">
-  <img src="Images/terminal_screenshot.jpeg" alt="Terminal Output" width="450"/>
+  <img src="assets/terminal_screenshot.jpeg" alt="Terminal Output" width="450"/>
   &nbsp;&nbsp;
-  <img src="Images/dashboard_screenshot.jpeg" alt="Dashboard" width="450"/>
+  <img src="assets/dashboard_screenshot.jpeg" alt="Dashboard" width="450"/>
 </p>
 
 <p align="center">
   <i>
-    Left: Real-time terminal output showing live market data collection and processing.
+    Left: Real-time terminal output showing live market data collection and processing.<br/>
     Right: Interactive AI Autonomous Trading Agent dashboard displaying market insights and analytics.
   </i>
+</p>
+
+### Live Operations
+
+**Dashboard in Action**
+<p align="center">
+  <img src="assets/dashboard_output.gif" alt="Dashboard Live Action" width="800"/>
+</p>
+
+**Automated Browser Scraping**
+<p align="center">
+  <img src="assets/browser_output.gif" alt="Browser Automation" width="800"/>
+</p>
+
+**Real-Time Terminal Processing**
+<p align="center">
+  <img src="assets/terminal_output.gif" alt="Terminal Processing" width="800"/>
 </p>
 
 ## 🚀 Installation
